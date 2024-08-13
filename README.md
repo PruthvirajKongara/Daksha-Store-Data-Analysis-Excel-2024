@@ -10,4 +10,10 @@ To pioneer a predictive sales model by crafting a comprehensive, data-driven ann
 
 
 •	Conducted in-depth data analysis on 50,000 customer records using Excel 2024. Identified top 5 products and key customer segments by data cleaning and PivotTables, leading to a 10% increase in sales.
+
+
+
+
+
+
 •	Leveraged insights to optimize product assortment and marketing strategies, enhancing store performance 10%.
